@@ -1,0 +1,48 @@
+body{
+    font-family: Tahoma, sans-serif, Arial;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+}
+
+p{
+    text-indent: 20px;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.justify{
+    text-align: justify;
+    font-style: normal;
+}
+
+.list{
+list-style-type: square;
+list-style-position: inside;
+}
+
+.orderlist{
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+.aboutme{
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.paboutme{
+    font-weight: normal;
+    color: red;
+    text-align: left;
+}
